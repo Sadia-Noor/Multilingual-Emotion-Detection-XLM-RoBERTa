@@ -103,4 +103,8 @@ python train.py --epochs 5 --batch_size 32
 ## 📌 Project Note  
 
 This project is part of **[SemEval 2025 Task 11](https://github.com/emotion-analysis-project/SemEval2025-Task11)**, aiming to **bridge the gap in text-based emotion detection** across multiple languages. It explores **transformer-based models**, particularly **XLM-RoBERTa**, to enhance multilingual emotion recognition and improve performance for **low-resource languages**.  
+
+## 📩 Contact  
+If you need access to the dataset or the project report, feel free to reach out at **sadianoor090@gmail.com**.  
+
  
