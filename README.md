@@ -92,6 +92,14 @@ python train.py --epochs 5 --batch_size 32
 - Improve generalization for low-resource languages
 - Explore ensemble methods for better accuracy
 
+## References  
+
+- SemEval 2025 Task 11: Bridging the Gap in Text-Based Emotion Detection  
+- Transformer-based Multilingual Emotion Recognition Papers  
+- **Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019).** *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.* [Link](https://arxiv.org/abs/1810.04805)  
+- **Conneau, A., Khandelwal, K., Goyal, N., Chaudhary, V., Wenzek, G., Guzmán, F., ... & Stoyanov, V. (2020).** *Unsupervised Cross-lingual Representation Learning at Scale.* [Link](https://arxiv.org/abs/1911.02116)  
+- **Demszky, D., Movshovitz-Attias, D., Ko, J., Cowen, A., Nemade, G., & Ravi, S. (2020).** *GoEmotions: A Dataset of Fine-Grained Emotions.* [Link](https://arxiv.org/abs/2005.00547)  
+
 ## 📌 Project Note  
 
 This project is part of **[SemEval 2025 Task 11](https://github.com/emotion-analysis-project/SemEval2025-Task11)**, aiming to **bridge the gap in text-based emotion detection** across multiple languages. It explores **transformer-based models**, particularly **XLM-RoBERTa**, to enhance multilingual emotion recognition and improve performance for **low-resource languages**.  
