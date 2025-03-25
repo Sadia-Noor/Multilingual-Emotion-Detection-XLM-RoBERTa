@@ -71,8 +71,8 @@ This project follows a **transformer-based** deep learning approach:
 To set up the environment, follow these steps:
 
 ```bash
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Sadia-Noor/Multilingual-Emotion-Detection-XLM-RoBERTa.git
+cd Multilingual-Emotion-Detection-XLM-RoBERTa
 pip install -r requirements.txt
 ```
 
